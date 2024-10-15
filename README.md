@@ -60,11 +60,9 @@ return 0;
 <!-- https://img.shields.io, https://simpleicons.org/ -->
 ```
 https://img.shields.io/badge/
-<img src="https://img.shields.io/badge/{ 뱃 지 이 름 }-{ 뱃 지 색 깔 }?style={ 뱃 지 스 타 일 }&logo={ 로고이
-름}&logoColor={로고색깔}"/>
+<img src="https://img.shields.io/badge/{ 뱃 지 이 름 }-{ 뱃 지 색 깔 }?style={ 뱃 지 스 타 일 }&logo={ 로고이름}&logoColor={로고색깔}"/>
 https://simpleicons.org/
 ```
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=
-white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=red"/>
 <img src="https://img.shields.io/badge/any_text-you_like-F09820"/>
