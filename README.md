@@ -54,9 +54,11 @@ int main()
 return 0;
 }
 ```
+
 <!-- 체크박스 -->
-* [ ] 여자
-• [x] 남자
+* [x] 여자
+* [ ] 남자
+
 <!-- https://img.shields.io, https://simpleicons.org/ -->
 ```
 https://img.shields.io/badge/
